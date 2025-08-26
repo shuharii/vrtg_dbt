@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: vertigo_case
+    database: spry-dispatcher-469920-m8
+    schema: user_level
+    tables:
+      - name: daily
