@@ -1,5 +1,7 @@
 Welcome to your new dbt project!
 
+dashboard link : https://public.tableau.com/views/VertigoDashboard/KPITrendBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ### Using the starter project
 
 Try running the following commands:
